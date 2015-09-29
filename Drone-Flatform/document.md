@@ -1,9 +1,23 @@
+# 2015-09-29
+### 진행상황
+> softPWM 출력 값은 제대로 출력됨..
+
+> avr datasheet 확인
+
+> wiringPi 분석
+
+### issue
+> 왜 그냥 PWM 쓰면 라파가 뒈짐...? 원래 안그랬는데...?
+
+### 다음 할일
+> ESC control
+
 # 2015-09-28
 ### 진행상황
 > wiringPi PWM 분석
 
 ### issue
-> 
+>
 
 ### 다음 할일
 > PWM 오실로스코프로 확인하기
